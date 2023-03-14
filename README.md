@@ -27,5 +27,5 @@ If there is bugs, please submit it to issues and please provide a screenshot if 
 --------------------------------------------------------------------
 GPL License 2.0 
 --------------------------------------------------------------------
-Raw GitHub:
+Raw GitHub:https://raw.githubusercontent.com/aternolinux/ssh-setup/main/README.md
 
