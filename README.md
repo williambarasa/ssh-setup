@@ -23,13 +23,16 @@ With permission to execute
 Thats it also,Look at this head in doors!
 ![Screenshot_2023-03-13-13-05-37-396](https://user-images.githubusercontent.com/100489181/225084273-599fdf0e-e311-4213-bb03-70d1b9c9abc1.jpg)
 --------------------------------------------------------------------
-If there is bugs, please submit it to issues and please provide a screenshot if you can And.... Bye guys!
---------------------------------------------------------------------
-GPL License 2.0 
+If there is bugs, please submit it to issues and please provide a screenshot if you can.
+
 --------------------------------------------------------------------
                              RAW 
 
 https://raw.githubusercontent.com/aternolinux/ssh-setup/main/README.md
 ![Screenshot_2023-03-14-12-17-12-401](https://user-images.githubusercontent.com/100489181/225086014-f4fd5fe1-70e7-434b-ba8a-4f7b542f718e.jpg)
+-------------------------------------------------------------------
+There is also ssh-start.sh ONLY use it when your done with ssh.sh installing 
+stuff.
+![Screenshot_2023-03-14-12-57-33-876](https://user-images.githubusercontent.com/100489181/225096117-fb126ea0-1f8c-40f6-9c51-30bf05c1994e.jpg)
 
 
