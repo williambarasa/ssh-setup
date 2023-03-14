@@ -19,6 +19,8 @@ read $port
 
 echo "know your pass"
 
+sshd
+
 ssh $user@localhost -p $port
 
 echo "make sure u use this script after you install all that stuff."
