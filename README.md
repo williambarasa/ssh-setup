@@ -25,4 +25,7 @@ Thats it also,Look at this head in doors!
 --------------------------------------------------------------------
 If there is bugs, please submit it to issues and please provide a screenshot if you can And.... Bye guys!
 --------------------------------------------------------------------
-GPL License 2.0 ©
+GPL License 2.0 
+--------------------------------------------------------------------
+Raw GitHub:
+
