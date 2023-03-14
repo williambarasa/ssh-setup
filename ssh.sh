@@ -23,6 +23,8 @@ read $port
 
 echo "you will need your password for this. say passwd to set ur passwd"
 
+sshd
+
 ssh $user@localhost -p $port
 
 echo "All done! if there is issues ill check the github for problems. Goodbye!" 
