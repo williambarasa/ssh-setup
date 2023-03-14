@@ -1,5 +1,7 @@
 # ssh-setup 
-![Screenshot_2023-03-14-11-54-47-682](https://user-images.githubusercontent.com/100489181/225079962-b468c8cc-c640-4194-9d2d-2ac616dca3c3.jpg)
+![Screenshot_2023-03-14-13-15-09-574](https://user-images.githubusercontent.com/100489181/225099948-263b25e3-1337-4697-bdbb-e612021d6194.jpg)
+
+
 Sneak peak of the code! so I don't have to explain how it works 😐
 
 -----------------------------------------------------------------
@@ -29,7 +31,8 @@ If there is bugs, please submit it to issues and please provide a screenshot if 
                              RAW 
 
 https://raw.githubusercontent.com/aternolinux/ssh-setup/main/README.md
-![Screenshot_2023-03-14-12-17-12-401](https://user-images.githubusercontent.com/100489181/225086014-f4fd5fe1-70e7-434b-ba8a-4f7b542f718e.jpg)
+![Screenshot_2023-03-14-13-12-00-723](https://user-images.githubusercontent.com/100489181/225099445-d4102674-bcc1-4fd4-b4e8-5d9e88d87ec1.jpg)
+
 -------------------------------------------------------------------
 There is also ssh-start.sh ONLY use it when your done with ssh.sh installing 
 stuff.
