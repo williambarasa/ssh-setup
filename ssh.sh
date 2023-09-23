@@ -1,8 +1,4 @@
 #!/bin/bash
-port=$1
-
-user=$2
-
 pkg install openssh 
 
 pkg update & pkg upgrade
