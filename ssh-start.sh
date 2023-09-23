@@ -1,28 +1,9 @@
 #!/bin/bash
-port=$1
+# File is now useless
 
-user=$2
+echo "Don't use this file. It has no meaning now." 
 
-pkg update & pkg upgrade
-
-echo "whats your user"
-
-whoami
-
-read $user
-
-nmap localhost
-
-echo "whats your port"
-
-read $port
-
-echo "know your pass"
-
-sshd
-
-ssh $user@localhost -p $port
-
-echo "make sure u use this script after you install all that stuff."
+sleep 3
+exit
 
 
