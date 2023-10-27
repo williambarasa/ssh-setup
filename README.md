@@ -22,8 +22,7 @@ Without permission to execute
 With permission to execute 
 ![Screenshot_2023-03-14-12-08-53-774](https://user-images.githubusercontent.com/100489181/225083966-9ba675f8-b949-4d42-aa9e-e14feab3b717.jpg)
 --------------------------------------------------------------------
-Thats it also,Look at this head in doors!
-![Screenshot_2023-03-13-13-05-37-396](https://user-images.githubusercontent.com/100489181/225084273-599fdf0e-e311-4213-bb03-70d1b9c9abc1.jpg)
+
 --------------------------------------------------------------------
 If there is bugs, please submit it to issues and please provide a screenshot if you can.
 
