@@ -19,9 +19,13 @@ read $port
 
 echo "you will need your password for this. say passwd to set ur passwd"
 
+echo "Enter the I.P address you are trying to connect to"
+
+read $ip
+
 sshd
 
-ssh $user@localhost -p $port
+ssh $user@$ip -p $port
 
 echo "All done! if there is issues ill check the github for problems. Goodbye!" 
 
